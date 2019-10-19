@@ -17,4 +17,4 @@ Starting this assignment, we got a folder of data with 2 separated part of train
 2. Description of the variables
 3. Transformation performed to tidy up the data
 
-## The file tidy.txt is the independent secondary data set resulted from the 5th tasks of the run_analysis.R script  
+### The file tidy.txt is the independent secondary data set resulted from the 5th tasks of the run_analysis.R script  
