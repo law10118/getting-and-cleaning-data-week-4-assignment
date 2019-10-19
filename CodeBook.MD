@@ -30,11 +30,8 @@ activity variable is factor type. Subject variable is integer type. All other va
 ### Transformation performed to tidy up the data
 0. read the 2 folders train & test, and the files features,activity_labels 
 1. Coupling the train and test data sets of X,Y and Sub by the rows
-2.1. from features, filter for only lines which have either mean or std 
-2.2. subset from X only the lines which have mean or std
-3.1. Naming the columns of X,Y & sub
-3.2. Combine the columns of X,Y & sub
+2. from features, filter for only lines which have either mean or std - subset from X only the lines which have mean or std
+3. Naming the columns of X,Y & sub - Combine the columns of X,Y & sub
 4. Express both activity and subject as factor, with activity labeled and leveled based on activity_labels  
-5.1. Group the data by the experimental subject and types of activity 
-5.2. Averaging each filtered columns
+5. Group the data by the experimental subject and types of activity and averaging each columns
 6. Export the independent dataset
