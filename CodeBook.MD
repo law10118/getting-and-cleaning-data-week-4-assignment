@@ -8,7 +8,6 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 # Getting and cleaning data - week 4 assignment 
 ## Assignment briefing
 The data in this assignment represent data collected from the accelerometers 
