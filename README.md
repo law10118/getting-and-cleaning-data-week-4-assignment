@@ -13,9 +13,8 @@ Starting this assignment, we got a folder of data with 2 separated part of train
 5. Creates a independent secondary data set with the mean of data grouped by activities and subjects
 
 ## The content of CodeBook.md included: 
-1. Description of the variables
-2. Description of the data 
+1. Description of the data
+2. Description of the variables
 3. Transformation performed to tidy up the data
 
 ## The file tidy.txt is the independent secondary data set resulted from the 5th tasks of the run_analysis.R script  
-
